@@ -20,7 +20,7 @@ pip install pandas scikit-learn matplotlib
 Clone the Repository: Clone this repository to your local machine.
 bash
 Copy code
-git clone https://github.com/aryand1/crop-nitrogen-prediction.git
+git clone [https://github.com/aryand1/crop-nitrogen-prediction.git](https://github.com/aryand1/-Crop-Nitrogen-Prediction-using-Random-Forest-Regressor)
 
 Data: The script loads a CSV file containing data. Ensure you have your data in the specified format.
 
