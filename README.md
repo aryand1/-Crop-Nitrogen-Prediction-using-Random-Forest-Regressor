@@ -1,4 +1,4 @@
-# -Crop-Nitrogen-Prediction-using-Random-Forest-Regressor
+# -Crop-Nitrogen-Prediction-using-Various-Regressor-Models
 🌾 Crop Nitrogen Prediction using Random Forest Regressor
 Welcome to the Crop Nitrogen Prediction project! This repository houses a Python script that leverages the power of the Random Forest Regressor to predict crop nitrogen levels with precision. This comprehensive script covers data preprocessing, model training, evaluation, and the generation of insightful visualizations.
 
