@@ -76,9 +76,12 @@ coconut
 cotton
 jute
 coffee
+
 Project Components
 data.csv: The dataset utilized for training and testing.
-README.md: This document, providing a comprehensive overview of the project.
+README.md: This document provides a comprehensive overview of the project.
+Training_and_Prediction.ipynb: Code for training the model and prediction
+with the user interface: To run this file, use the command "streamlit run with user interface.py" in your virtual environment in anaconda (as anaconda is their official partner. It works best there; I am not sure about other IDEs; it should work but I am not sure).
 
 Author
 Aryan Singh Dalal
